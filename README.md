@@ -43,3 +43,12 @@ body {
 </body>
 </html>
 ``
+<section class="section">
+    <h2>Senderを応援する</h2>
+    <p>このアプリの開発を続けるためのサポートができます</p>
+
+    <a href="https://ko-fi.com/sender" target="_blank" class="donate-btn">
+        ☕ 応援する
+    </a>
+</section>
+``
